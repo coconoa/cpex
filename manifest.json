@@ -1,0 +1,19 @@
+{
+  "vendor.css": "vendor.1b550f87499695c0abdf.css",
+  "vendor.js": "vendor.v4.7b83ef0b979802407f8a.js",
+  "vendor.js.map": "vendor.v4.7b83ef0b979802407f8a.js.map",
+  "runtime.js": "runtime.v4.1b370e3675cd6a241108.js",
+  "runtime.js.map": "runtime.v4.1b370e3675cd6a241108.js.map",
+  "main.css": "main.152b7a4eb402d74f517d.css",
+  "main.js": "main.v4.e4b51ec9d998e84a7d2c.js",
+  "main.js.map": "main.v4.e4b51ec9d998e84a7d2c.js.map",
+  "noscript.css": "noscript.1b27345f8c3e32c10134.css",
+  "noscript.js": "noscript.v4.b796792d389ee6ade0d7.js",
+  "noscript.js.map": "noscript.v4.b796792d389ee6ade0d7.js.map",
+  "noscript.scss": "ed311c7a0ade9a75bb3ebf5a7670f31d.woff2",
+  "codicon.css": "bda2dba51e7287ea093d42aafcc37986.ttf",
+  "editor.v4.worker.455af92e7e1dc39fdbc8060f6680ab32.js": "editor.v4.worker.455af92e7e1dc39fdbc8060f6680ab32.js",
+  "editor.v4.worker.455af92e7e1dc39fdbc8060f6680ab32.js.map": "editor.v4.worker.455af92e7e1dc39fdbc8060f6680ab32.js.map",
+  "es6-shim.min.js": "es6-shim.min.js",
+  "vendor.v4.7b83ef0b979802407f8a.js.LICENSE.txt": "vendor.v4.7b83ef0b979802407f8a.js.LICENSE.txt"
+}
